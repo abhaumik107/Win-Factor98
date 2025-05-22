@@ -22,8 +22,18 @@ Take your time to experiment with the models and concepts. Use visualizations or
 **Please submit your work by *May 29*.**
 
 ## Resources
-- [3B1B Neural Networks Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=TnAAsjDxla7tiKzc)
-
+- [What is supervised learning?](https://www.ibm.com/think/topics/supervised-learning)
+- [What are regression models?](https://www.iotaacademy.in/post/how-regression-models-are-used-in-supervised-learning)
+- [linear and polynomial regression](https://medium.com/analytics-vidhya/everything-you-need-to-know-about-linear-regression-750a69a0ea50)||[another good article](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/)||[another one](https://medium.com/analytics-vidhya/understanding-the-linear-regression-808c1f6941c0)
+- [linear regression by statquest](https://youtu.be/7ArmBVF2dCs?si=vu4mJk738x1AfQps)
+- [vdeo resource on polynomial regression](https://youtu.be/BNWLf3cKdbQ?si=P70nrkrrrW6QA3tp)
+- [3B1B Neural Networks Playlist (Highly recommended)](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=TnAAsjDxla7tiKzc), then go through [this](https://medium.com/deep-learning-demystified/introduction-to-neural-networks-part-1-e13f132c6d7e) and [this](https://medium.com/deep-learning-demystified/introduction-to-neural-networks-part-2-c261a99f4138)
+- [gradient descent](https://towardsdatascience.com/gradient-descent-unraveled-3274c895d12d-2/)
+- [types of optimization in gradient descent](https://arxiv.org/pdf/1609.04747), only for the interested peeps :)
+- [activation functions and their types](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
+- [how to choose an activation function](https://www.turing.com/kb/how-to-choose-an-activation-function-for-deep-learning)
+- [types of loss fucntions](https://www.ibm.com/think/topics/loss-function)
+- [why mse though?](https://blog.dailydoseofds.com/p/why-mean-squared-error-mse), only for the interested peeps :)
 ## Task 1: Familiarize with the Dataset
 - You have been provided with a dataset - `mw_pw_profiles.csv` - matchwise playerwise dataset
 - This is a large dataset with multiple features, familiarize yourself with the columns and their meanings.

@@ -5,8 +5,8 @@
  - [What genetic algorithms are](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-are-genetic-algorithms/). This will come in handy when we move to hyperparameter tuning next week.
  - [Feature Selection Techniques](https://www.stratascratch.com/blog/feature-selection-techniques-in-machine-learning/)
  
-## Week 3 Assignment
-This week you will continue working with boosting models and further feature engineering.
+## Week 3 Assignment 
+This week you will continue working with boosting models and further feature engineering (deadline: 22nd June 2025).
 
 A target MAE % to achieve is 25% at least, discuss with other groups if you are struggling.
 

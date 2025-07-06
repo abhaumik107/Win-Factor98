@@ -43,6 +43,7 @@ Welcome to this week’s focus on **Gradio**—a powerful, beginner-friendly Pyt
 - **Processing:** Use the machine learning model to select the best 11-player team.
 - **Output:** Display the selected team in a clear, readable format.
 - **Interface:** Add a descriptive title, helpful labels, and example input.
+- **Deadline**: 8th July, Tuesday
 
 ### Bonus Challenge
 

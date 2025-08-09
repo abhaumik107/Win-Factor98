@@ -60,11 +60,9 @@ Welcome to this week’s focus on **Gradio**—a powerful, beginner-friendly Pyt
 ---
 
 ## 💡 Tips
-
 - Start with the [Quickstart Guide](https://www.gradio.app/guides/quickstart) and [FreeCodeCamp tutorial](https://www.freecodecamp.org/news/build-gui-using-gradio-for-machine-learning-models/) for a fast, practical introduction.
 - Use the [official documentation](https://www.gradio.app/docs) as a reference for components and troubleshooting.
 - Ask questions and share progress in our group chat!
 
 ---
-
 Happy building!

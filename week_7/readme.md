@@ -48,4 +48,3 @@ You are not expected to read this paper in detail, but it provides insights into
 - Treat each player selection as a step in the episode. The episode ends when 11 players are picked.
 - Action space: all unselected players at that point.
 - Use epsilon-greedy strategy for exploration during training.
-

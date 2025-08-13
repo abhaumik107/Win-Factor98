@@ -1,3 +1,6 @@
+# For evaluation:
+Refer to Main Pipeline directory for simple usage and testing
+
 # How to use this repository
 
 Follow these steps to fork the repository, make your changes, commit them and open a Pull Request (PR) with the title `firstname_lastname`.
